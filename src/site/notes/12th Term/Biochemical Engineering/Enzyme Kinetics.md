@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/12th-term/biochemical-engineering/enzyme-kinetics/"}
+{"dg-publish":true,"permalink":"/12th-term/biochemical-engineering/enzyme-kinetics/","tags":["gardenEntry"]}
 ---
 
 
